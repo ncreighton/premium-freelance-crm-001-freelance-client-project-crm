@@ -1,2 +1,29 @@
-# premium-freelance-crm-001-freelance-client-project-crm
-Stop losing clients to scattered spreadsheets and forgotten follow-ups. This Freelance Client &amp; Project CRM is a complete business management system built in Notion — 6 interconnected databases that track your clients, projects, tasks, time, invoices, and communications in one unified workspace.  Unlike basic Notion templates with empty tables and
+# Freelance Client & Project CRM — Complete Notion System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu28r26HbUEaNOdI0d0x3r)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu28r26HbUEaNOdI0d0x3r)
+- [Buy on Gumroad](https://journalscribe7.gumroad.com/l/doiea)
+
